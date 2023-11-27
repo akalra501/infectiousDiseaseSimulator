@@ -15,9 +15,7 @@ At this point, I faced my biggest hurdle. I was not entirely sure how I would �
 
 After running numerous simulations, here are my results. All the data points are a mean result of 10 trials for each vaccination percentage and constant probability of transmission. 
 
-
 This first graph depicts how increasing the number of vaccinated people in the population, changes the number of unvaccinated people who never got sick, thus representing“herd immunity”.
-
 
 The second graph here depicts how the duration of the disease gets affected as the number of vaccinated people in the population increase.
 
@@ -26,16 +24,6 @@ The graph suggests that “herd immunity” is only achievable if a very high pe
 
 Limitations/Drawbacks.
 Like every other simulation, my simulation also has its limitations. One of the biggest limitations of this simulation is its simplistic nature. Even though I believe that this was a difficult coding project, it is way too simple to take into account variables like demographics, daily activities, immunity of a person, mutation, climate, geographic location, etc. I did try my best to model the mutation of the disease and even wrote a separate disease class, however, I was not able to completely incorporate it into my program. Thus, due to these limitations, even though, this simulation program is not completely accurate in modeling the spread of disease, it still produces results consistent with how a disease would spread.
-
-Here is all my data organized in tables:
-
-
-
-
-
-
-
-
 
 
 
